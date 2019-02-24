@@ -26,9 +26,11 @@ float Math::Divide(int a, int b)
 	return a / b;
 }
 
+
 int main()
 {
 	Math solution;
+	int d= Divide(10,20);
 	int mul = solution.Multiply(5, 6);
 	int div = solution.Divide(6, 2);
 	solution.Display(mul);
