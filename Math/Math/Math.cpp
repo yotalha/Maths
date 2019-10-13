@@ -9,7 +9,7 @@ int Math::Multiply(int a, int b)
 {
 
 	return a * b;
-}//shsoalalhsal
+}
 
 int Math::Add(int a, int b)
 {
